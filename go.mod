@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-exchange-interface
+module github.com/fgeth/fg-ipfs-exchange-interface
 
 go 1.16
 
